@@ -1,8 +1,8 @@
 # Ranvir Chhina
 
-ranvirsingh@outlook.com
+[ranvirsingh@outlook.com](mailto://ranvirsingh@outlook.com)
 
-https://www.linkedin.com/in/chhinaranvir/
+[LinkedIn](https://www.linkedin.com/in/chhinaranvir/)
 
 # Summary
 
