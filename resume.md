@@ -37,20 +37,20 @@ user clicks with millisecond precision
 
 # Education
 
-**University of Washington - Seattle** (2017 - 2022)
+**University of Washington - Seattle** (2017 - 2022)  
 Bachelor of Arts Geography - Geographic Information Systems
 
-**Vivek High School - India** (2013 - 2017)
+**Vivek High School - India** (2013 - 2017)  
 High School Diploma Non-Medical
 
 # Skills
 
-**Programming Languages:**    Java, Python, Javascript
-**Frameworks:**               ExpressJS, ReactJS, NextJS, Django
-**Cross-Platform Solutions:** Flutter
-**Database Engines:**         MySQL, PostgresSQL
-**Deployment:**               AWS, Gitlab, Github
-**Automation:**               Appium, WebdriverIO, Jest
+**Programming Languages:**    Java, Python, Javascript  
+**Frameworks:**               ExpressJS, ReactJS, NextJS, Django  
+**Cross-Platform Solutions:** Flutter  
+**Database Engines:**         MySQL, PostgresSQL  
+**Deployment:**               AWS, Gitlab, Github  
+**Automation:**               Appium, WebdriverIO, Jest  
 
 
 
