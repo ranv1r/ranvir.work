@@ -1,3 +1,10 @@
+# Astro
+dist/
+.astro/
+
+# macOS
+.DS_Store
+
 # Logs
 logs
 *.log
